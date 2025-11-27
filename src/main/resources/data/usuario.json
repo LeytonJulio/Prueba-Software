@@ -1,0 +1,15 @@
+[
+  {
+    "nombre": "Julio Leyton",
+    "email": "Julio@correo.com",
+    "rol": "USER",
+    "activo": true
+  },
+  {
+    "nombre": "Marisol ",
+    "email": "Marisol@correo.com",
+    "rol": "ADMIN",
+    "activo": true
+  }
+
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "titulo": "Configurar servidor",
+    "descripcion": "Instalar dependencias y configurar entorno",
+    "estado": "PENDIENTE",
+    "prioridad": "ALTA",
+    "proyectoId": 1
+  },
+  {
+    "titulo": "Diseñar interfaz",
+    "descripcion": "Crear mockups y flujo de pantallas",
+    "estado": "EN_PROGRESO",
+    "prioridad": "MEDIA",
+    "proyectoId": 2
+  }
+
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "App Móvil de Ventas",
+    "descripcion": "Aplicación móvil para gestionar ventas y clientes",
+    "fechaInicio": "2024-03-05",
+    "fechaFin": "2025-09-20",
+    "usuarioId": 1
+  },
+  {
+    "nombre": "Sistema de Inventarios",
+    "descripcion": "Plataforma para controlar y registrar productos en almacén",
+    "fechaInicio": "2024-04-12",
+    "fechaFin": "2025-11-30",
+    "usuarioId": 2
+  }
+
+]
